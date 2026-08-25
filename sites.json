@@ -3,71 +3,85 @@
   "sites": [
     {
       "name": "gomoku",
+      "nameZh": "五子棋",
       "url": "https://gomoku-space.vercel.app",
       "enable": true
     },
     {
       "name": "learn-english-kid",
+      "nameZh": "儿童英语",
       "url": "https://learn-english-kid.vercel.app",
       "enable": true
     },
     {
       "name": "learn-python-kid",
+      "nameZh": "儿童 Python",
       "url": "https://learn-python-kid.vercel.app",
       "enable": true
     },
     {
       "name": "analyze-3d-bubble-match",
+      "nameZh": "3D 泡泡消消分析",
       "url": "https://analyze-3d-bubble-match.vercel.app",
       "enable": true
     },
     {
       "name": "learn-rust",
+      "nameZh": "Rust 学习",
       "url": "https://learn-rust-chi.vercel.app",
       "enable": true
     },
     {
       "name": "learn-sdf",
+      "nameZh": "SDF 学习",
       "url": "https://learn-sdf.vercel.app",
       "enable": true
     },
     {
       "name": "learn-go",
+      "nameZh": "Go 学习",
       "url": "https://learn-go-pi.vercel.app",
       "enable": true
     },
     {
       "name": "analyze-goods-sort",
+      "nameZh": "货物整理分析",
       "url": "https://analyze-goods-sort.vercel.app",
       "enable": true
     },
     {
       "name": "analyze-goods-rush",
+      "nameZh": "货物冲关分析",
       "url": "https://analyze-goods-rush.vercel.app",
       "enable": true
     },
     {
       "name": "match3-level-editor",
+      "nameZh": "三消关卡编辑器",
       "url": "https://match3-level-editor.vercel.app",
       "enable": true
     },
     {
       "name": "sorting-store-level-editor",
+      "nameZh": "整理商店关卡编辑器",
       "url": "https://sorting-store-level-editor.vercel.app",
       "enable": true
     },
     {
       "name": "match3d-level-pacing-tool",
+      "nameZh": "3D 三消节奏工具",
       "url": "https://match3d-level-pacing-tool.vercel.app",
       "enable": true
     },
     {
       "name": "boquan-helper",
+      "nameZh": "博荃助手",
       "url": "https://boquan-helper.vercel.app",
       "enable": true
     },
     {
       "name": "kid-tools",
+      "nameZh": "儿童工具",
       "url": "https://kid-tools.vercel.app",
       "enable": true
     }
