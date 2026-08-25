@@ -1,0 +1,75 @@
+{
+  "snapshot": "2026-08-25",
+  "sites": [
+    {
+      "name": "gomoku",
+      "url": "https://gomoku-space.vercel.app",
+      "enable": true
+    },
+    {
+      "name": "learn-english-kid",
+      "url": "https://learn-english-kid.vercel.app",
+      "enable": true
+    },
+    {
+      "name": "learn-python-kid",
+      "url": "https://learn-python-kid.vercel.app",
+      "enable": true
+    },
+    {
+      "name": "analyze-3d-bubble-match",
+      "url": "https://analyze-3d-bubble-match.vercel.app",
+      "enable": true
+    },
+    {
+      "name": "learn-rust",
+      "url": "https://learn-rust-chi.vercel.app",
+      "enable": true
+    },
+    {
+      "name": "learn-sdf",
+      "url": "https://learn-sdf.vercel.app",
+      "enable": true
+    },
+    {
+      "name": "learn-go",
+      "url": "https://learn-go-pi.vercel.app",
+      "enable": true
+    },
+    {
+      "name": "analyze-goods-sort",
+      "url": "https://analyze-goods-sort.vercel.app",
+      "enable": true
+    },
+    {
+      "name": "analyze-goods-rush",
+      "url": "https://analyze-goods-rush.vercel.app",
+      "enable": true
+    },
+    {
+      "name": "match3-level-editor",
+      "url": "https://match3-level-editor.vercel.app",
+      "enable": true
+    },
+    {
+      "name": "sorting-store-level-editor",
+      "url": "https://sorting-store-level-editor.vercel.app",
+      "enable": true
+    },
+    {
+      "name": "match3d-level-pacing-tool",
+      "url": "https://match3d-level-pacing-tool.vercel.app",
+      "enable": true
+    },
+    {
+      "name": "boquan-helper",
+      "url": "https://boquan-helper.vercel.app",
+      "enable": true
+    },
+    {
+      "name": "kid-tools",
+      "url": "https://kid-tools.vercel.app",
+      "enable": true
+    }
+  ]
+}

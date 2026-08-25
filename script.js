@@ -7,7 +7,7 @@
   const emptyState = document.querySelector("#empty-state");
   const cards = [...document.querySelectorAll("[data-site-card]")];
 
-  if (!searchInput || !clearButton || !resultCount || !emptyState || cards.length === 0) {
+  if (!searchInput || !clearButton || !resultCount || !emptyState) {
     return;
   }
 
@@ -45,4 +45,5 @@
     }
   });
   clearButton.addEventListener("click", clearSearch);
+  updateDirectory();
 })();
